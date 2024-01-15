@@ -2,7 +2,7 @@
  
 SMS Spam Detection Project
 
-This project focuses on SMS spam detection using the SMS Spam Collection dataset, which comprises 5,574 messages labeled as either ham (legitimate) or spam. The primary objective is to develop an effective spam classifier.
+This project focuses on SMS spam detection using the SMS Spam Collection dataset, which comprises 6,000 messages labeled as either ham (legitimate) or spam. The primary objective is to develop an effective spam classifier.
 
 About the Dataset
 
